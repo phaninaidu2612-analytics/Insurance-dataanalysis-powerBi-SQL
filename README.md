@@ -24,6 +24,8 @@ The dashboard helps insurance stakeholders monitor policy performance, customer 
 - Connected Power BI with SQL Server for centralized data    retrieval and reporting
 - Configured scheduled refresh in Power BI Service to ensure - continuous and up-to-date dashboard reporting
 
+   ![sql](https://github.com/user-attachments/assets/448355df-2913-4f50-bec0-2bba91dc93db)
+
 ## Dataset Description
 
 The dataset contains insurance-related customer and claims information.
@@ -106,6 +108,18 @@ Rejected claims are higher than pending claims, indicating strict validation pro
 - Customer Demographics
 Male and female customer distribution is nearly equal
 Younger adults contribute comparatively lower claim amounts
+
+## Snapshot of Dashboard (Power BI Service):
+
+![powerbi_service](https://github.com/user-attachments/assets/a8b7f7f7-a9f1-4d2d-a857-f96ddbf680fc)
+
+## Scheduled Refresh :
+
+- Implemented scheduled refresh in Power BI Service to automatically update the dataset with the latest loan records  
+- Enabled continuous monitoring of key metrics such as default rates, loan distribution, and income segmentation  
+- Reduced manual effort by automating data updates, ensuring timely and accurate decision-making  
+
+![sr](https://github.com/user-attachments/assets/1985b96b-13b5-4a77-a027-535399c07f15)
 
 ## Tools & Technologies Used
 - Power BI Desktop
