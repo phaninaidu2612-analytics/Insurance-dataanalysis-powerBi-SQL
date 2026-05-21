@@ -26,6 +26,14 @@ The dashboard helps insurance stakeholders monitor policy performance, customer 
 
    ![sql](https://github.com/user-attachments/assets/448355df-2913-4f50-bec0-2bba91dc93db)
 
+## Security & Access Control
+Implemented Row-Level Security (RLS) in Power BI to restrict data visibility based on policy types
+Configured role-based access for:
+Health Insurance
+Other Policy Categories
+Ensured secure and controlled access to sensitive insurance data for different user groups
+   ![rls](https://github.com/user-attachments/assets/f5729f6f-d473-4f61-9b81-1a68387fab30)
+
 ## Dataset Description
 
 The dataset contains insurance-related customer and claims information.
